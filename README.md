@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algolkk&layout=compact">
-    <img alt="Anurag's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=algolkk&hide=stars,contribs&count_private=true&show_icons=true&theme=dracula">
+    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algolkk&layout=compact&theme=aura">
+    <img alt="Anurag's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=algolkk&hide=stars,contribs&count_private=true&show_icons=true&theme=aura">
   </a>
 </p>
