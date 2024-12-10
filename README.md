@@ -1,3 +1,7 @@
 ## 🐔
 
-https://algolkk.github.io/links/
+### Website
+https://logtus.algolkk.com/
+
+### Links
+https://links.algolkk.com/
